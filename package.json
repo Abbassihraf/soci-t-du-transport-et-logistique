@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MinaDakiri12/keep-in-touch.git"
+    "url": "git+https://github.com/Abbassihraf/soci-t-du-transport-et-logistique.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MinaDakiri12/keep-in-touch/issues"
+    "url": "https://github.com/Abbassihraf/soci-t-du-transport-et-logistique/issues"
   },
-  "homepage": "https://github.com/MinaDakiri12/keep-in-touch#readme",
+  "homepage": "https://github.com/Abbassihraf/soci-t-du-transport-et-logistique#readme",
   "dependencies": {
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
